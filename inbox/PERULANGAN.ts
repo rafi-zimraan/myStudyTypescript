@@ -1,22 +1,22 @@
 
 // Pengulangan for
-// for (let i = 10; i > 0; i--) {
-//     console.log
-//     ("Anak ke " + i + "<br>")
-// }
+for (let i = 10; i > 0; i--) {
+    console.log
+    ("Anak ke " + i + "<br>")
+}
 
-// for (let a =0; a < 10; a++) {
-//     console.log
-//     (`${a} `)
-// }
+for (let a =0; a < 10; a++) {
+    console.log
+    (`${a} `)
+}
 
 
-// for (let i = 4; i <= 60; i++) {
-//     if(i % 2 == 0)
-//     console.log(i);
+for (let i = 4; i <= 60; i++) {
+    if(i % 2 == 0)
+    console.log(i);
     
     
-// }
+}
 
 // PENGULANGAN FOR
 for (let y = 1; y <= 10; y++) {

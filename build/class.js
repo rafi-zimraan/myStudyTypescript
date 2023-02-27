@@ -56,5 +56,5 @@ class civic extends car {
         this.id = id;
     }
 }
-const gabungCar = new civic("toyota", "supra", 2024, "kamu tanya");
+const gabungCar = new civic("toyota", "supra", 2024, "tahun ini");
 console.log(gabungCar);

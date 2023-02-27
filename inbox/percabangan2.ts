@@ -1,24 +1,24 @@
-// let getBiodata : any = prompt ("City Tour");
-// let password : any = prompt ( "ganteng");
+let getBiodata : any = prompt ("City Tour");
+let password : any = prompt ( "ganteng");
 
 
-// // UNTUK CARA SIMPLE
-// if(getBiodata === "City Tour" && password === "ganteng") {
-//     document.writeln("selamat datang");
-// }else {
-//     document.writeln("password tidak terdaftar");
-// }
+// UNTUK CARA SIMPLE
+if(getBiodata === "City Tour" && password === "ganteng") {
+    document.writeln("selamat datang");
+}else {
+    document.writeln("password tidak terdaftar");
+}
 
-// // UNTUK CARA YANG LEBIH LENGKAP
-// if(getBiodata === "City Tour") {
-//     if(password === "ganteng"){
-//         document.writeln("selamat datang");
-//     }else {
-//         document.writeln("paswword anda salah");
-//     }
-// }else {
-//     document.writeln("password tidak terdaftar");
-// }
+// UNTUK CARA YANG LEBIH LENGKAP
+if(getBiodata === "City Tour") {
+    if(password === "ganteng"){
+        document.writeln("selamat datang");
+    }else {
+        document.writeln("paswword anda salah");
+    }
+}else {
+    document.writeln("password tidak terdaftar");
+}
 
 
 let hasilUndian : any = prompt("selamat anda mendapat hadiah ,silahkan pilih diantara 1-5");
